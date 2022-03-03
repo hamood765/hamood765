@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @hamood765
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing so far
-- 📫 How to reach me: no you cant
+![hamood's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamood765&show_icons=true&theme=tokyonight)
 
-<!---
-hamood765/hamood765 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Currently repositories private]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamood765&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Connections:
+- Discord: nyan#0314
+- Instagram: bruhify.xyz
+- StackOverflow https://stackoverflow.com/users/12709566/hmood
